@@ -15,3 +15,14 @@ To do:
 - Organize events in the .CSV file
 - User account system
 - Remove herobrine
+
+## Libraries used
+- encoding/csv
+- flag
+- fmt
+- log
+- net/http
+- os
+- strconv
+- strings
+- time
